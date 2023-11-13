@@ -8,12 +8,12 @@
 }
 
 body{
-    background: rgb(90, 0, 187);
+    background: rgb(199,21,133);
 }
 
 ::selection{
     color: #fff;
-    background: #007bff;
+    background: #FF1493;
 }
 
 .start_btn,
@@ -24,8 +24,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(255,0,255), 
+                0 6px 20px 0 rgba(255,0,255);
 }
 
 .info_box.activeInfo,
@@ -381,7 +381,7 @@ footer button.show{
     color: #007bff;
     background: #fff;
 }
-
+90, 0, 18790, 0, 187
 .buttons button.quit:hover{
     color: #fff;
     background: #007bff;
