@@ -12,7 +12,7 @@ body{
 }
 
 ::selection{
-    color: #FF69B4;
+    color: #FFFFFF;
     background: #FF1493;
 }
 
@@ -45,7 +45,7 @@ body{
     outline: none;
     border: none;
     border-radius: 5px;
-    background: #FF69B4;
+    background: #FFFFFF;
     cursor: pointer;
     transition: 1s ease-in-out;
 }
@@ -56,7 +56,7 @@ body{
 
 .info_box{
     width: 540px;
-    background: #FF69B4;
+    background: #FFFFFF;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -114,7 +114,7 @@ body{
 
 .quiz_box{
     width: 550px;
-    background: #FF69B4;
+    background: #FFFFFF;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -127,7 +127,7 @@ body{
     z-index: 2;
     height: 70px;
     padding: 0 30px;
-    background: #FF69B4;
+    background: #FFFFFF;
     border-radius: 5px 5px 0 0;
     display: flex;
     align-items: center;
@@ -164,7 +164,7 @@ body{
     font-weight: 500;
     height: 30px;
     width: 45px;
-    color: #FF69B4;
+    color: #FFFFFF;
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
@@ -183,7 +183,7 @@ body{
 
 section{
     padding: 25px 30px 20px 30px;
-    background: #FF69B4;
+    background: #FFFFFF;
 }
 
 section .que_text{
@@ -290,7 +290,7 @@ footer button{
     cursor: pointer;
     border: none;
     outline: none;
-    color: #FF69B4;
+    color: #FFFFFF;
     border-radius: 5px;
     background: #FF69B4;
     border: 1px solid #FF69B4;
@@ -312,7 +312,7 @@ footer button.show{
 }
 
 .result_box{
-    background: #FF69B4;
+    background: #FFFFFF;
     border-radius: 5px;
     display: flex;
     padding: 25px 30px;
@@ -369,7 +369,7 @@ footer button.show{
 }
 
 .buttons button.restart{
-    color: #FF69B4;
+    color: #FFFFFFF;
     background: #FF69B4;
 }
 
